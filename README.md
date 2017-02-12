@@ -1,4 +1,4 @@
-# Golang Boston Lab #3 - Building a Slack bot 
+# Golang Boston Lab #3 - Building a Slack bot Testing commit
 
 Welcome to Boston Golang Lab #3 - Building a Slack bot
 
